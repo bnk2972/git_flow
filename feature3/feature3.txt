@@ -1,1 +1,2 @@
 start Feature 3
+Fix bug feature 3

@@ -1,0 +1,2 @@
+Feature : get profile
+fix bug 2
